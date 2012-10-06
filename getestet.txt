@@ -796,7 +796,6 @@ Broccoli-Speck-Quiche
   Belag
       1 kg Broccoli
       1 Bd Petersilie, glatt
-      1 Bd Petersilie, glatt
       3   Eier
       2   Eigelb
     100 g Speck (gewürfelt)
@@ -1784,3 +1783,4 @@ Räucherlachs-Wraps
     aufrollen. Fest in Folie packen und 2 h im Kühlschrank stehen lassen. Zum
     Anrichten in dünne Scheiben schneiden oder nur schräg in der Mitte teilen.
     Dazu passt ein grüner oder gemischter Salat.
+
