@@ -5435,7 +5435,7 @@ Tomatenzipfel
 http://www.ploetzblog.de/2014/08/23/tomatenzipfel/
 
 Beef with Broccoli Stir Fry
-thewoksoflife.com/2014/09/beef-with-broccoli-all-purpose-stir-fry-sauce/
+http://thewoksoflife.com/2014/09/beef-with-broccoli-all-purpose-stir-fry-sauce/
 
 Marinierter Rotkrautsalat im Glas mit viel Chili
 http://kebohoming.blogspot.it/2013/11/sunday-lunch-recipe-starter-marinierter.html
@@ -5467,9 +5467,6 @@ http://hapanom.com/onigiri/
 Japanischer Gurkensalat
 http://hapanom.com/japanese-cucumber-salad/
 
-Sesame Crusted Tofu
-http://hapanom.com/sesame-crusted-tofu/
-
 Negima Yakitori - Japanische Hähnchenspiesse
 http://hapanom.com/negima-yakitori/
 
@@ -5485,10 +5482,6 @@ http://thewoksoflife.com/2014/09/homemade-scallion-sesame-crackers/
 Homemade Rice Milk
 http://minimaleats.com/homemade-rice-milk/
 
-Krautsalat - sehr gut
-http://www.chefkoch.de/rezepte/614141161435086/Krautsalat-wie-beim-Griechen.html
-    Mit Spitzkohl - ist milder!
-
 Pappa al Pomodoro - Tomaten-Brot-Suppe
 http://peho.typepad.com/chili_und_ciabatta/2014/09/pappa-al-pomodoro-tomaten-brot-suppe.html
 
@@ -5500,9 +5493,6 @@ http://balkanizeurkitchen.blogspot.de/2013/06/ajvar.html
 
 Cevapcici-Presse
 http://www.tupperware.de/produkte/produktuebersicht/produkt/988/D203Tupper%C2%AEMultiPresse#product-details
-
-Spaghetti with small meatballs
-http://www.sbs.com.au/food/recipes/spaghetti-small-meatballs-maccheroni-alla-chitarra-con-polpettine-di-carne
 
 Pizza-Pfannkuchen-Auflauf
 http://peho.typepad.com/chili_und_ciabatta/2014/10/pizzapfannkuchen-auflauf.html
@@ -5637,7 +5627,7 @@ http://www.chinasichuanfood.com/fish-fragrant-tofu/
 Szechuan Chili Oil
 http://www.chinasichuanfood.com/how-to-make-chinese-red-oil/
 
-otherwise in au Chocolat
+Pain au Chocolat
 http://www.sbs.com.au/food/recipes/pain-au-chocolat
 
 Quiche Lorraine
