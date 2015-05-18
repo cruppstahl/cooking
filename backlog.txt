@@ -5945,9 +5945,6 @@ http://food52.com/blog/9404-joanne-chang-s-hot-and-sour-soup
 Spaghetti Bolognese
 http://food52.com/blog/9917-nigel-slater-s-really-good-spaghetti-bolognese
 
-4 Hour-Baguette
-http://food52.com/blog/10044-dan-leader-s-4-hour-baguette
-
 Red Wine Vinaigrette
 http://food52.com/blog/10626-molly-wizenberg-brandon-pettit-s-red-wine-vinaigrette
 
@@ -6251,9 +6248,6 @@ http://food52.com/recipes/27653-tuscan-chicken-liver-crostini-crostini-di-fegati
 Slow Cooker Beef Bourguignon
 http://realfoodbydad.com/slow-cooker-beef-bourguignon/
 
-Vietnamese Caramelised Pork Ribs
-http://www.sbs.com.au/food/recipes/caramelised-pork-ribs
-
 Reisküchlein mit Salsa
 http://www.spiegel.de/stil/yotam-ottolenghi-rezept-fuer-reiskuechlein-mit-salsa-a-1028883.html
 
@@ -6265,9 +6259,6 @@ https://www.ploetzblog.de/2015/04/18/geschnecktes/
 
 Brotbacken - Salzstangen
 http://www.hefe-und-mehr.de/2015/04/brotbacken-fr-anfnger-ix-salzstangerl/
-
-Überbackene Bolognese-Nudeln
-http://lisagcooks.com/healthy-main-course/everyday-noodle-bake/
 
 Ceviche-Maisfladen mit Mango-Guacamole-Salat
 http://valentinas-kochbuch.de/rezept-von-stevan-paul-big-shrimpin/
@@ -6343,4 +6334,7 @@ http://www.chinasichuanfood.com/hunan-beef/
 
 Asian Braised Short Ribs with Chili Lime Potatoes
 http://thewoksoflife.com/2015/05/asian-braised-short-ribs-with-chili-lime-potatoes/
+
+Thai-Hähnchensalat mit Reisnudeln
+http://peho.typepad.com/chili_und_ciabatta/2015/05/thai-h%C3%A4hnchensalat-mit-reisnudeln.html
 
